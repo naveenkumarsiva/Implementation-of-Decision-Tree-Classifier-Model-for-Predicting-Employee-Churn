@@ -55,6 +55,7 @@ DATA HEAD
 ![decision tree classifier model](O1.png)
 
 DATA INFO
+
 ![decision tree classifier model](O2.png)
 
 DATA ISNULL
